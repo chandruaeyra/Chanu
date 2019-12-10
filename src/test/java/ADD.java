@@ -4,6 +4,9 @@ public class ADD {
 		// TODO Auto-generated method stub
 
 	}
-	
+private void fun() {
+
+	}
+
 
 }
